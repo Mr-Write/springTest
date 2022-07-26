@@ -9,10 +9,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringTestApplication {
 
     public static void main(String[] args) {
-
         SpringApplication.run(SpringTestApplication.class, args);
         System.out.println("hello");
         System.out.println("hot-fox modified");
+        System.out.println("modified again");
     }
 
 }
