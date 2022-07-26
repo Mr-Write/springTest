@@ -12,6 +12,7 @@ public class SpringTestApplication {
 
         SpringApplication.run(SpringTestApplication.class, args);
         System.out.println("hello");
+        System.out.println("hot-fox modified");
     }
 
 }
