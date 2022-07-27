@@ -10,9 +10,6 @@ public class SpringTestApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringTestApplication.class, args);
-        System.out.println("hello");
-        System.out.println("master modify");
-        System.out.println("fix modify");
+        System.out.println("I have modify");
     }
-
 }
